@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project is a **Meme Generator** built with **React**. Built in a scrim for a React.js course. Not deployed as this exact project is a dime a dozen. But the lessons learned on state, useEffects, handling components rendering, and the way react handles forms were very valuable. 
-
+This project is a **Meme Generator** built with **React** for a React.js course. In this project I learned and practiced foundational React concepts and practices on **state**, **event listeners**, **conditional rendering**, **side effects**, and **forms** in React. Having a strong understanding of these help open a world where I can write more robust and provide stronger products.
 ## Key Features
 
 - **React Components**: The project is structured using reusable React components (`Header`, `Meme`, etc.), promoting modular and maintainable code.
