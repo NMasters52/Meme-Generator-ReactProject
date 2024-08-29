@@ -1,20 +1,28 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+# Meme Generator Project
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Overview
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This project is a **Meme Generator** built with **React**. Built in a scrim for a React.js course. Not deployed as this exact project is a dime a dozen. But the lessons learned on state, useEffects, handling components rendering, and the way react handles forms were very valuable. 
 
-Happy Coding!
+## Key Features
+
+- **React Components**: The project is structured using reusable React components (`Header`, `Meme`, etc.), promoting modular and maintainable code.
+- **State Management**: Utilizes React's `useState` hook to manage dynamic data, such as generating random meme images on user interaction.
+- **Responsive Design**: The UI is designed to be responsive and user-friendly, with a clean, minimalist layout.
+
+## Skills Demonstrated
+
+- **React.js**: 
+  - Creating functional components and managing component state.
+  - Experience with the way React handles async functions in useEfect, and using state to update forms on each keystroke.
+  - Use of APIs and how they are affected on each render, and how to control and clean up outside effects.
+- **JavaScript (ES6)**:
+  - Familiarity with ES6+ syntax and features, including arrow functions, destructuring, and template literals.
+- **CSS and External Libraries**:
+  - Integrated external stylesheets (e.g., Normalize.css) and Google Fonts to enhance the visual appearance.
+  - Responsive and accessible design principles were applied.
+
+
+
+Feel free to explore the code and reach out if you have any questions or opportunities!
+
